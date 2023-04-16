@@ -252,6 +252,7 @@ void test() {
 
 int main() {
     test();
+    test_pushBack_emptyVector();
 
     return 0;
 }
