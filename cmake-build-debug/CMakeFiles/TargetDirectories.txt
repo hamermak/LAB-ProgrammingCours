@@ -1,0 +1,3 @@
+C:/Users/555/Desktop/Vector/cmake-build-debug/CMakeFiles/Vector.dir
+C:/Users/555/Desktop/Vector/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/555/Desktop/Vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
